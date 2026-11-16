@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Grafite">
+  <title>Grafite</title>
+  <defs>
+    <clipPath id="tile">
+      <rect width="256" height="256" rx="56"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#tile)">
+    <rect width="256" height="256" fill="#0c0e12"/>
+    <path d="M0 64 H256 M0 128 H256 M0 192 H256 M64 0 V256 M128 0 V256 M192 0 V256" stroke="#222834" stroke-width="2"/>
+    <path d="M128 40 L204 84 V172 L128 216 L52 172 V84 Z" fill="#1b2029" stroke="#343c4b" stroke-width="4"/>
+    <path d="M128 40 L204 84 L128 128 L52 84 Z" fill="#263042"/>
+    <path d="M128 128 V216" stroke="#343c4b" stroke-width="4"/>
+    <path d="M128 128 L204 84 M128 128 L52 84" stroke="#343c4b" stroke-width="4"/>
+    <circle cx="128" cy="128" r="14" fill="#5ec8f2"/>
+    <circle cx="128" cy="128" r="28" fill="none" stroke="#5ec8f2" stroke-opacity="0.35" stroke-width="4"/>
+  </g>
+  <rect x="2" y="2" width="252" height="252" rx="54" fill="none" stroke="#343c4b" stroke-width="4"/>
+</svg>

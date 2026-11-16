@@ -1,0 +1,16 @@
+{
+  "name": "grafite",
+  "displayName": "Grafite",
+  "version": "1.0.0",
+  "description": "A cool graphite dark theme for Atlas: a cool near-black with electric cyan, mint and coral for the states.",
+  "author": {
+    "name": "JoaoEquer"
+  },
+  "license": "MIT",
+  "atlas": {
+    "api": 24,
+    "themes": [
+      "grafite"
+    ]
+  }
+}
